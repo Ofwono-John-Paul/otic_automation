@@ -1,0 +1,158 @@
+# OTIC FOUNDATION - ORGANIZED KNOWLEDGE BASE
+
+---
+
+## About Us
+
+Otic Foundation is a visionary social enterprise dedicated to transforming lives and creating sustainable solutions. We leverage the power of technology, particularly artificial intelligence (AI), to address pressing societal challenges, inspire change, and foster growth in communities across Uganda and beyond.
+
+---
+
+## Mission
+
+To democratize access to AI knowledge and emerging technologies through grassroots advocacy, free skilling initiatives, and community-driven programs that bridge digital divides and empower underrepresented groups for the future of work and sustainable development.
+
+---
+
+## Vision
+
+An inclusive, AI-empowered society where every community in Africa can thrive in the digital age.
+
+---
+
+## Core Values
+
+- **Innovation**  
+  We embrace cutting-edge technology and creative thinking to develop solutions that address real-world challenges and open new opportunities for growth.
+
+- **Collaboration**  
+  Working together is at the heart of what we do. By fostering partnerships with individuals, organizations, and communities, we amplify our impact and create lasting change.
+
+- **Impact**  
+  Our efforts are focused on achieving measurable outcomes that improve lives, strengthen communities, and contribute to a brighter future.
+
+- **Ethical Integrity**  
+  We are committed to transparency, fairness, and responsibility in all our actions, ensuring our work remains grounded in trust and ethical principles.
+
+- **Growth Goal by 2030**  
+  We aim to reach at least 1 million Ugandans with AI-related skilling and empowerment by 2030.
+
+---
+
+## Our Approach: Three Pillars of Impact
+
+- **Skilling and Awareness:** Workshops, bootcamps, and hands-on training in AI, data science, and emerging tech.
+- **Advocacy:** Engagement with policymakers for responsible AI regulations.
+- **Infrastructure Development:** Creation and enhancement of AI infrastructure like labs and innovation hubs.
+
+---
+
+
+## What We Do
+
+We bridge the gap between technology and community needs through:
+
+- **AI Awareness and Skilling**  
+  Offering training programs and workshops to bridge the AI skills gap in Uganda.
+
+- **AI Advocacy**  
+  Engaging with policymakers and stakeholders to champion responsible AI regulations.
+
+- **AI Ecosystem Development**  
+  Promoting and supporting infrastructure such as data centers, research labs, and developer communities.
+
+---
+
+## Core Programs
+
+- **Data Analytics:** Analyze, visualize, and interpret data using tools like Python, R, and SQL.
+- **Vacists AI Innovators Program:** Intensive training in Python, R, and SQL with W3Schools certification.
+- **Cybersecurity (Coming Soon):** Learn principles of cybersecurity with hands-on experience.
+- **More Programs Coming Soon:** Continuous rollout of advanced digital skills.
+
+---
+
+## Our Initiatives
+
+### 1. National Free AI Skilling Initiative (NFASI)
+
+**Goal:** Empower 1 million Ugandans with future-ready AI skills by 2030.
+
+**Focus Areas:**
+
+- **Machine Learning**  
+  Concepts include supervised and unsupervised learning, model evaluation, and implementation using Scikit-learn and TensorFlow.
+
+- **Data Science**  
+  Covers data cleaning, processing, analysis, and visualization using Pandas, NumPy, and Matplotlib.
+
+- **Generative AI**  
+  Understanding content-generation models like GANs and Transformers, and exploring their creative and ethical implications.
+
+- **Cybersecurity**  
+  Training in cryptography, network security, ethical hacking, and risk management.
+
+---
+
+### 2. AI in Every City
+
+A nationwide program offering free AI education. Participants complete a hackathon involving Python for Data Science and Machine Learning, and build projects in Microsoft Power BI. Over 900 applications were received in the initial phase.
+
+---
+
+## Our Impact at a Glance
+
+- 3,200+ Students Impacted
+- 5+ Educational Institutions Reached
+- 1,000+ Community Members Engaged
+- 6+ Strategic Partners
+
+---
+
+## Partnerships and Supporters
+
+W3Schools, Ministry of ICT and National Guidance - Uganda, Uganda Institute of ICT, American Centre Kampala, National ICT Innovation Hub, United States and Africa Initiatives
+
+---
+
+## Team & Leadership
+
+### Management Team
+
+- **Mr. Paul Nesta Katende** — Founder & CEO  
+- **Mr. Martin Ayebazibwe** — Director, Admin & Operations  
+- **Ms. Patience Asiimwe** — Head of Finance  
+- **Mr. Bill Dan Arnold Borodi** — Head of Media & Communications  
+- **Mr. Julius Basiima** — Community Engagement Lead
+
+**Why Our Team Stands Out:**  
+They are innovators, educators, and changemakers from diverse backgrounds in technology, education, and community development, united in the vision to use AI for societal transformation.
+
+---
+
+## Team Testimonials
+
+- **Elijah B, Operations Lead:** Working at Otic Foundation offers invaluable exposure and purpose.
+- **Nakawalya Patricia, Operations Officer:** Transformed mindset and work ethic.
+- **Martin Ayebazibwe, Director - Admin & Ops:** Witnessing collective impact and empowerment.
+
+---
+
+## Contact Information
+
+- **Call Us:** +256 756 722263 / +256 706 867547  
+- **Email Us:** info@oticfoundation.org 
+- **Office Hours:** 8:00 AM - 5:00 PM 
+- **Visit Us:** National ICT Innovation Hub, Nakawa, Uganda  
+
+---
+
+## Summary
+
+Otic Foundation is building an inclusive, AI-ready society through education, advocacy, and innovation. Our mission, programs, and people are aligned toward national digital empowerment goals, with a clear focus on youth, equity, and sustainable development.
+
+
+## Conclusion
+
+Otic Foundation stands at the forefront of digital transformation in Uganda, leveraging AI to empower individuals and communities. Through skilling, advocacy, and infrastructure, the foundation is preparing the workforce of the future and promoting inclusive innovation.
+
