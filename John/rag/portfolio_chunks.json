@@ -1,0 +1,161 @@
+[
+    {
+        "chunk_id": 1,
+        "section": "projects",
+        "title": "E-commerce Platform",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Project: E-commerce Platform\nDjango & Python"
+    },
+    {
+        "chunk_id": 2,
+        "section": "projects",
+        "title": "E-commerce Platform",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Project: E-commerce Platform\nDeveloped a comprehensive"
+    },
+    {
+        "chunk_id": 3,
+        "section": "projects",
+        "title": "e-commerce platform",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Project: e-commerce platform\nusing Django and Python, with features including:\nProduct listings with categories and search functionality\nUser authentication and profile management\nShopping cart management with session handling\nSecure payment processing integration\nOrder tracking and history\nPython\nDjango\nPostgreSQL\nHTML/CSS\nJavaScript"
+    },
+    {
+        "chunk_id": 4,
+        "section": "projects",
+        "title": "Mobile Applications",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Project: Mobile Applications\nFlutter & Kivy\nCross-Platform Mobile Apps\nBuilt cross-platform"
+    },
+    {
+        "chunk_id": 5,
+        "section": "projects",
+        "title": "mobile applications",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Project: mobile applications\nusing Flutter and Kivy, focusing on:\nDynamic data retrieval from RESTful APIs and Firebase\nUser-friendly interfaces with smooth animations\nAPI integration for real-time data updates\nOffline data caching for improved user experience\nCross-platform compatibility (iOS and Android)\nFlutter\nDart\nKivy\nPython\nFirebase"
+    },
+    {
+        "chunk_id": 6,
+        "section": "projects",
+        "title": "Web-based Systems",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Project: Web-based Systems\nPHP & MySQL\nDynamic Web Systems\nCreated"
+    },
+    {
+        "chunk_id": 7,
+        "section": "projects",
+        "title": "web-based systems",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Project: web-based systems\nusing PHP and MySQL, including:\nDynamic websites with real-time database connectivity\nCustom admin panels for data management\nUser authentication and role-based access control\nRESTful API development for third-party integration\nData visualization dashboards\nPHP\nMySQL\nJavaScript\njQuery\nAJAX"
+    },
+    {
+        "chunk_id": 8,
+        "section": "projects",
+        "title": "Embedded Systems",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Project: Embedded Systems\nC & Microcontrollers"
+    },
+    {
+        "chunk_id": 9,
+        "section": "projects",
+        "title": "Embedded Systems",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Project: Embedded Systems\nProjects\nWorked on"
+    },
+    {
+        "chunk_id": 10,
+        "section": "projects",
+        "title": "embedded systems",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Project: embedded systems\nprojects using C, developing:\nMicrocontroller-based systems for data collection\nSensor interfaces for environmental monitoring\nControl systems for automated processes\nLow-level hardware communication protocols\nEnergy-efficient embedded applications\nC\nArduino\nRaspberry Pi\nI2C/SPI\nSensors"
+    },
+    {
+        "chunk_id": 11,
+        "section": "projects",
+        "title": "COCIS Examination Hub",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Project: COCIS Examination Hub\nJava Programming"
+    },
+    {
+        "chunk_id": 12,
+        "section": "projects",
+        "title": "COCIS Examination Hub",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Project: COCIS Examination Hub\nDeveloped a secure online examination hub for COCIS using Java and Spring Boot, featuring:\nSecure user authentication for students and administrators\nFunctionality for creating, managing, and scheduling exams\nA timed exam interface with various examination papers per course unit formats\nPast papers per course unit sorted per acadmic year\nRole-based access control to manage permissions\nJava\nSpring Boot\nMySQL\nHTML/CSS\nJavaScript"
+    },
+    {
+        "chunk_id": 13,
+        "section": "projects",
+        "title": "Computer Networking",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Project: Computer Networking\nNetwork Configuration\nNetworking Projects\nExplored"
+    },
+    {
+        "chunk_id": 14,
+        "section": "projects",
+        "title": "computer networking",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Project: computer networking\n, gaining hands-on experience in:\nNetwork configuration and setup\nTroubleshooting connectivity issues\nSetting up small-scale networks\nNetwork security implementation\nPerformance optimization\nTCP/IP\nRouting\nSwitching\nFirewalls\nVPN"
+    },
+    {
+        "chunk_id": 15,
+        "section": "projects",
+        "title": "Skills Developed Through Projects",
+        "source": "https://ofwono-john-paul.github.io/portfolio/projects.html",
+        "text": "Skills Developed\nThrough these projects, I've developed:\nStrong technical foundations across multiple platforms and languages\nEffective teamwork and collaboration skills\nThe ability to learn and apply new technologies quickly\nProblem-solving and debugging expertise\nProject management and organization capabilities"
+    },
+    {
+        "chunk_id": 16,
+        "section": "contact",
+        "title": "Contact Information",
+        "source": "https://ofwono-john-paul.github.io/portfolio/contact.html",
+        "text": "Contact Me\nThank you for your message! I'll get back to you soon.\nofwonojohn004@gmail.com\n+256 706 647 669, +256 763 914 425\nKampala, Uganda\nSend Message"
+    },
+    {
+        "chunk_id": 17,
+        "section": "about",
+        "title": "About Me",
+        "source": "https://ofwono-john-paul.github.io/portfolio/about.html",
+        "text": "About Me\nWho am I?\nMy experience spans web development, interactive dashboards, machine learning, Large Language Models (LLMs),\nand automation tools. From developing e-commerce platforms and cross-platform mobile applications to\nbuilding AI-powered chat agents, automating business workflows, and transforming raw data into meaningful\ninsights through data visualization, I combine technical expertise with creativity to deliver practical,\nscalable solutions.\nMy goal is to build software that is functional, intelligent, and visually appealing while leveraging\ndata and AI to create solutions that make a meaningful impact."
+    },
+    {
+        "chunk_id": 18,
+        "section": "skills",
+        "title": "Frontend",
+        "source": "https://ofwono-john-paul.github.io/portfolio/skills.html",
+        "text": "Skill Category: Frontend\nHTML\n90%\nCSS\n85%\nJavaScript\n80%\nReact.js\n65%",
+        "category": "Frontend"
+    },
+    {
+        "chunk_id": 19,
+        "section": "skills",
+        "title": "Backend",
+        "source": "https://ofwono-john-paul.github.io/portfolio/skills.html",
+        "text": "Skill Category: Backend\nNode.js\n75%\nPython\n85%\nPHP\n75%\nMySQL\n80%",
+        "category": "Backend"
+    },
+    {
+        "chunk_id": 20,
+        "section": "skills",
+        "title": "Programming Languages",
+        "source": "https://ofwono-john-paul.github.io/portfolio/skills.html",
+        "text": "Skill Category: Programming Languages\nPython\n90%\nJava Programming\n85%\nC\n75%\nDart\n80%",
+        "category": "Programming Languages"
+    },
+    {
+        "chunk_id": 21,
+        "section": "skills",
+        "title": "Frameworks & Tools",
+        "source": "https://ofwono-john-paul.github.io/portfolio/skills.html",
+        "text": "Skill Category: Frameworks & Tools\nDjango\n80%\nFlutter\n85%\nKivy\n70%\nGit\n85%",
+        "category": "Frameworks & Tools"
+    },
+    {
+        "chunk_id": 22,
+        "section": "skills",
+        "title": "Specialized Skills",
+        "source": "https://ofwono-john-paul.github.io/portfolio/skills.html",
+        "text": "Skill Category: Specialized Skills\nData Analysis\n80%\nMachine Learning\n80%\nAgile Project Management\n70%\nCybersecurity\n70%\nResponsive Design\n90%",
+        "category": "Specialized Skills"
+    }
+]
