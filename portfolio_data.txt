@@ -1,0 +1,222 @@
+
+======================================================================
+HOME
+======================================================================
+
+Source: https://ofwono-john-paul.github.io/portfolio/
+
+My Portfolio - Home
+Hello, I'm
+Ofwono John Paul
+I'm a
+A passionate Software Developer, AI & Data Analytics Enthusiast with 
+                    expertise in building scalable web applications, intelligent automation 
+                    solutions, interactive dashboards, and AI-powered systems that solve real-world problems.
+View My Work
+Get In Touch
+
+
+======================================================================
+PROJECTS
+======================================================================
+
+Source: https://ofwono-john-paul.github.io/portfolio/projects.html
+
+My Portfolio - Projects
+My Projects
+E-commerce Platform
+Django & Python
+E-commerce Platform
+Developed a comprehensive e-commerce platform using Django and Python, with features including:
+Product listings with categories and search functionality
+User authentication and profile management
+Shopping cart management with session handling
+Secure payment processing integration
+Order tracking and history
+Python
+Django
+PostgreSQL
+HTML/CSS
+JavaScript
+View Project
+Source Code
+Mobile Applications
+Flutter & Kivy
+Cross-Platform Mobile Apps
+Built cross-platform mobile applications using Flutter and Kivy, focusing on:
+Dynamic data retrieval from RESTful APIs and Firebase
+User-friendly interfaces with smooth animations
+API integration for real-time data updates
+Offline data caching for improved user experience
+Cross-platform compatibility (iOS and Android)
+Flutter
+Dart
+Kivy
+Python
+Firebase
+View Project
+Source Code
+Web-based Systems
+PHP & MySQL
+Dynamic Web Systems
+Created web-based systems using PHP and MySQL, including:
+Dynamic websites with real-time database connectivity
+Custom admin panels for data management
+User authentication and role-based access control
+RESTful API development for third-party integration
+Data visualization dashboards
+PHP
+MySQL
+JavaScript
+jQuery
+AJAX
+View Project
+Source Code
+Embedded Systems
+C & Microcontrollers
+Embedded Systems Projects
+Worked on embedded systems projects using C, developing:
+Microcontroller-based systems for data collection
+Sensor interfaces for environmental monitoring
+Control systems for automated processes
+Low-level hardware communication protocols
+Energy-efficient embedded applications
+C
+Arduino
+Raspberry Pi
+I2C/SPI
+Sensors
+View Project
+Source Code
+COCIS Examination Hub
+Java Programming
+COCIS Examination Hub
+Developed a secure online examination hub for COCIS using Java and Spring Boot, featuring:
+Secure user authentication for students and administrators
+Functionality for creating, managing, and scheduling exams
+A timed exam interface with various examination papers per course unit formats
+Past papers per course unit sorted per acadmic year
+Role-based access control to manage permissions
+Java
+Spring Boot
+MySQL
+HTML/CSS
+JavaScript
+View Project
+Source Code
+Computer Networking
+Network Configuration
+Networking Projects
+Explored computer networking, gaining hands-on experience in:
+Network configuration and setup
+Troubleshooting connectivity issues
+Setting up small-scale networks
+Network security implementation
+Performance optimization
+TCP/IP
+Routing
+Switching
+Firewalls
+VPN
+View Project
+Source Code
+Skills Developed
+Through these projects, I've developed:
+Strong technical foundations across multiple platforms and languages
+Effective teamwork and collaboration skills
+The ability to learn and apply new technologies quickly
+Problem-solving and debugging expertise
+Project management and organization capabilities
+
+
+======================================================================
+CONTACT
+======================================================================
+
+Source: https://ofwono-john-paul.github.io/portfolio/contact.html
+
+My Portfolio - Contact
+Contact Me
+Thank you for your message! I'll get back to you soon.
+Oops! Something went wrong. Please try again.
+ofwonojohn004@gmail.com
++256 706 647 669, +256 763 914 425
+Kampala, Uganda
+Send Message
+
+
+======================================================================
+ABOUT
+======================================================================
+
+Source: https://ofwono-john-paul.github.io/portfolio/about.html
+
+My Portfolio - About
+About Me
+Who am I?
+My experience spans web development, interactive dashboards, machine learning, Large Language Models (LLMs),
+                        and automation tools. From developing e-commerce platforms and cross-platform mobile applications to
+                        building AI-powered chat agents, automating business workflows, and transforming raw data into meaningful
+                        insights through data visualization, I combine technical expertise with creativity to deliver practical,
+                        scalable solutions.
+My goal is to build software that is functional, intelligent, and visually appealing while leveraging
+                        data and AI to create solutions that make a meaningful impact.
+Download CV
+
+
+======================================================================
+SKILLS
+======================================================================
+
+Source: https://ofwono-john-paul.github.io/portfolio/skills.html
+
+My Portfolio - Skills
+My Skills
+Frontend
+HTML
+90%
+CSS
+85%
+JavaScript
+80%
+React.js
+65%
+Backend
+Node.js
+75%
+Python
+85%
+PHP
+75%
+MySQL
+80%
+Programming Languages
+Python
+90%
+Java Programming
+85%
+C
+75%
+Dart
+80%
+Frameworks & Tools
+Django
+80%
+Flutter
+85%
+Kivy
+70%
+Git
+85%
+Specialized Skills
+Data Analysis
+80%
+Machine Learning
+80%
+Agile Project Management
+70%
+Cybersecurity
+70%
+Responsive Design
+90%
+
