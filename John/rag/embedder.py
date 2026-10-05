@@ -4,9 +4,7 @@ import json
 from sentence_transformers import SentenceTransformer
 
 
-# ============================================================
 # CONFIGURATION
-# ============================================================
 
 BASE_DIR = Path(__file__).resolve().parent
 
@@ -16,9 +14,7 @@ OUTPUT_FILE = BASE_DIR / "portfolio_embeddings.json"
 MODEL_NAME = "all-MiniLM-L6-v2"
 
 
-# ============================================================
 # LOAD MODEL
-# ============================================================
 
 print("\nLoading embedding model...")
 print(f"Model: {MODEL_NAME}")
@@ -28,9 +24,7 @@ model = SentenceTransformer(MODEL_NAME)
 print("Embedding model loaded successfully.")
 
 
-# ============================================================
 # LOAD CHUNKS
-# ============================================================
 
 print("\nLoading portfolio chunks...")
 
@@ -46,9 +40,7 @@ with open(
 print(f"Loaded {len(chunks)} chunks.")
 
 
-# ============================================================
 # PREPARE TEXT
-# ============================================================
 
 texts = [
     chunk["text"]
@@ -56,9 +48,7 @@ texts = [
 ]
 
 
-# ============================================================
 # GENERATE EMBEDDINGS
-# ============================================================
 
 print("\nGenerating embeddings...")
 
@@ -69,9 +59,7 @@ embeddings = model.encode(
 )
 
 
-# ============================================================
 # ADD EMBEDDINGS TO CHUNKS
-# ============================================================
 
 embedded_chunks = []
 
@@ -93,9 +81,7 @@ for chunk, embedding in zip(chunks, embeddings):
     embedded_chunks.append(embedded_chunk)
 
 
-# ============================================================
 # SAVE EMBEDDINGS
-# ============================================================
 
 print("\nSaving embeddings...")
 
@@ -113,9 +99,7 @@ with open(
     )
 
 
-# ============================================================
 # INFORMATION
-# ============================================================
 
 vector_size = len(embeddings[0])
 
