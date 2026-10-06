@@ -62,7 +62,7 @@
 #             st.markdown(f"**You asked:** {query}")
 #             st.markdown(f"**OTIC Bot:** {answer}")
 #         except Exception as e:
-#             st.error(f"⚠️ Error: {e}")
+#             st.error(f"Error: {e}")
 
 
 
@@ -113,8 +113,8 @@ qa_chain = RetrievalQA.from_chain_type(
 )
 
 # ----------------- Streamlit UI -------------------
-st.set_page_config(page_title="OTIC Chatbot", page_icon="🤖")
-st.title("🤖 OTIC Foundation AI Assistant")
+st.set_page_config(page_title="OTIC Chatbot", page_icon="")
+st.title("OTIC Foundation AI Assistant")
 st.write("Ask anything about Otic Foundation!")
 
 # Input box
@@ -125,11 +125,11 @@ if query:
         response = qa_chain.invoke({"query": query})
         st.success("Done!")
 
-        st.markdown(f"**❓ You asked:** {query}")
-        st.markdown(f"**🧠 OTIC Bot:** {response['result']}")
+        st.markdown(f"**You asked:** {query}")
+        st.markdown(f"**OTIC Bot:** {response['result']}")
 
         # Optional expandable section for debugging
-        with st.expander("📄 Show Source Chunks Used"):
+        with st.expander("Show Source Chunks Used"):
             for i, doc in enumerate(response["source_documents"]):
                 st.markdown(f"**Chunk {i+1}:**")
                 st.code(doc.page_content)
